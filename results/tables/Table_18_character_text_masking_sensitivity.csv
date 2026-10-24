@@ -1,0 +1,3 @@
+test_condition,n,macro_f1,balanced_accuracy,accuracy,log_loss,brier_multiclass
+Observed archived text,3540,0.4826472223,0.4772146182,0.4807909605,0.9719089718,0.5909378603
+"Mask lexical text, preserve availability",3540,0.4822210859,0.4710334363,0.4762711864,0.9747613902,0.5903331341

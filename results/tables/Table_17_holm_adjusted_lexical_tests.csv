@@ -1,0 +1,10 @@
+block_length,contrast,effect_macro_f1,CI95_low,CI95_high,p_uncorrected,p_holm_three_contrasts,reject_at_005
+5,W_word minus A_availability,-0.001497025908,-0.01105140963,0.007653142692,0.743,0.99,False
+5,C_character minus A_availability,0.004813667799,-0.004970757738,0.01446674351,0.33,0.99,False
+5,H_hybrid minus A_availability,-0.003668354031,-0.01277316989,0.005003792378,0.406,0.99,False
+10,W_word minus A_availability,-0.001497025908,-0.01162257199,0.008118987471,0.735,0.996,False
+10,C_character minus A_availability,0.004813667799,-0.005533611496,0.0140474219,0.332,0.996,False
+10,H_hybrid minus A_availability,-0.003668354031,-0.01362045416,0.005399967206,0.412,0.996,False
+20,W_word minus A_availability,-0.001497025908,-0.01210149263,0.008587461811,0.748,0.912,False
+20,C_character minus A_availability,0.004813667799,-0.004342857494,0.01297524709,0.296,0.888,False
+20,H_hybrid minus A_availability,-0.003668354031,-0.0131834178,0.005593182256,0.456,0.912,False

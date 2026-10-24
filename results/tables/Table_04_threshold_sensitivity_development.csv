@@ -1,0 +1,10 @@
+band_abs_return,label,count,share_pct,basis
+1e-10,Down,3087,44.44924406,development_2022_2023
+1e-10,Flat,1290,18.57451404,development_2022_2023
+1e-10,Up,2568,36.9762419,development_2022_2023
+0.005,Down,2863,41.22390209,development_2022_2023
+0.005,Flat,1724,24.82361411,development_2022_2023
+0.005,Up,2358,33.9524838,development_2022_2023
+0.01,Down,2227,32.0662347,development_2022_2023
+0.01,Flat,2882,41.4974802,development_2022_2023
+0.01,Up,1836,26.4362851,development_2022_2023

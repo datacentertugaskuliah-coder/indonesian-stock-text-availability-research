@@ -1,0 +1,21 @@
+check,observed,expected,pass
+Market rows,10830,10830,True
+Tweet rows,7672,7672,True
+Assigned posts,7471,7471,True
+Unassigned posts (quarantined),201,201,True
+Posts assigned to 2022-2023,2562,2562,True
+Posts assigned to 2024,4909,4909,True
+Posts published 2023 / assigned 2024,15,15,True
+Ticker-date duplicates,0,0,True
+Eligible development rows,6945,6945,True
+Eligible 2024 rows,3540,3540,True
+2024 ticker count,15,15,True
+Development ends before test,1,1,True
+Market SHA256 matches verified input,1,1,True
+Tweet SHA256 matches verified input,1,1,True
+2024 classification output rows per model,3540,3540,True
+No label/future feature names,1,1,True
+SHA256 source market,51c847f70cd310806b90a62dd551779e9ef43480a07714a5189fc884f43aaff6,51c847f70cd310806b90a62dd551779e9ef43480a07714a5189fc884f43aaff6,True
+SHA256 source tweets,4c513609af0342ed968f3ee26381a823bf158ca2661ad2b8894c2989aa669deb,4c513609af0342ed968f3ee26381a823bf158ca2661ad2b8894c2989aa669deb,True
+Python version,3.13.5,environment-dependent,True
+Scikit-learn version,1.8.0,document run version,True

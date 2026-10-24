@@ -1,0 +1,21 @@
+# Original text/market data must be sourced from DOI and reviewed before redistribution.
+/data/raw/*
+!/data/raw/.gitkeep
+/artifacts/
+/__pycache__/
+**/__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.env
+.env.*
+*.pem
+*.key
+*.docx
+*.ris
+*.pdf
+*.zip
+*.xlsx
+.venv/
+venv/

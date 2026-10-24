@@ -1,0 +1,4 @@
+# Preserve original bytes for SHA-256-verified evidence on Windows and Mac.
+results/tables/*.csv -text
+results/figures/*.png binary
+notebooks/*.ipynb -text

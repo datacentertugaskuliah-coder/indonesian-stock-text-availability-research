@@ -1,0 +1,7 @@
+C,model,n,macro_f1,balanced_accuracy,accuracy,log_loss,brier_multiclass,min_samples_leaf,selected_C,selection_rule
+1,M_market,3570,0.4074257884,0.4205956876,0.4691876751,0.9787853901,0.5959407223,,1,"shared logistic C, 2023 validation"
+1,A_availability,3570,0.4274393893,0.4218835964,0.468627451,0.9830634858,0.5982993766,,1,"shared logistic C, 2023 validation"
+1,W_word,3570,0.4235656489,0.4196543297,0.4658263305,0.9913842947,0.6003775596,,1,"shared logistic C, 2023 validation"
+1,C_character,3570,0.4269307128,0.421000736,0.4675070028,0.991510438,0.6022270311,,1,"shared logistic C, 2023 validation"
+1,H_hybrid,3570,0.4292752513,0.421213385,0.4658263305,0.9897047633,0.6017911345,,1,"shared logistic C, 2023 validation"
+,F_extra_trees,3570,0.4317795499,0.4278472762,0.4770308123,0.9927008449,0.6041883392,3,,"best Extra Trees leaf size, 2023 validation"

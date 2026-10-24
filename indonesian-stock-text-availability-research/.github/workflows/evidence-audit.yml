@@ -1,0 +1,17 @@
+name: Static evidence audit
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source and evidence
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Verify all 40 archived evidence files and reference metrics
+        run: python scripts/verify_repository.py
